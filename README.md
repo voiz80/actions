@@ -1,5 +1,5 @@
 # actions
-show different GitHub Actions Features
+Show different GitHub Actions Features
 
 CI/CD github workflow, env, building and deployment - staging, development, production 
 
