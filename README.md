@@ -10,3 +10,7 @@ pull request --> Development
 merge  pull request --> Staging
 
 review deployments --> Production
+
+visual example:
+
+![Process ...](workflow_staging.png)
